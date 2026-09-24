@@ -161,6 +161,7 @@ Leading research and development activities and contributing to competition-orie
 
 ---
 
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -177,15 +178,9 @@ Leading research and development activities and contributing to competition-orie
 
 ---
 
-## 📊 GitHub
+📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RawnakAhasan911&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RawnakAhasan911&theme=tokyonight&hide_border=true" />
-</p>
-
----
+<table> <tr> <td align="center"> <a href="https://github.com/RawnakAhasan911"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RawnakAhasan911&show_icons=true&theme=tokyonight&hide_border=true" /> </a> </td> <td align="center"> <a href="https://github.com/RawnakAhasan911"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawnakAhasan911&layout=compact&theme=tokyonight&hide_border=true" /> </a> </td> </tr> <tr> <td colspan="2" align="center"> <a href="https://github.com/RawnakAhasan911"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RawnakAhasan911&theme=tokyonight&hide_border=true" /> </a> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://raw.githubusercontent.com/RawnakAhasan911/RawnakAhasan911/output/github-contribution-grid-snake-dark.svg" /> </td> </tr> </table>
 
 ## 🧠 Currently Exploring
 
