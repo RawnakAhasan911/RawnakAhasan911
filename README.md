@@ -4,7 +4,7 @@
 
 I'm a Computer Science and Engineering student at **BRAC University**, passionate about building technology that solves real-world problems. My interests span **Artificial Intelligence, Robotics, Cybersecurity, Computer Vision, and Software Engineering**.
 
-I enjoy working across both software and hardware — from machine learning pipelines and full-stack web applications to robotics systems and research-oriented engineering projects.
+I enjoy working across both software and hardware , from machine learning pipelines and full-stack web applications to robotics systems and research-oriented engineering projects.
 
 ---
 
@@ -58,8 +58,8 @@ I enjoy working across both software and hardware — from machine learning pipe
 
 A research-oriented engineering project based on *Chlorella vulgaris*, designed to capture CO₂ and industrial pollutants while contributing to improved air quality.
 
-🏆 **Silver Medalist — ISIF Bangladesh Round 2025**
-🥉 **2nd Runner-Up — IPE Carnivesta 2025**
+🏆 **Silver Medalist , ISIF Bangladesh Round 2025**
+🥉 **2nd Runner-Up , IPE Carnivesta 2025**
 
 ---
 
@@ -83,7 +83,7 @@ A real-time crime reporting and visualization platform with GPS-based incident r
 
 ---
 
-### 📊 Machine Learning — Churn Prediction
+### 📊 Machine Learning , Churn Prediction
 
 An end-to-end machine learning pipeline for predicting customer subscription attrition.
 
@@ -102,7 +102,7 @@ Includes:
 
 ---
 
-### 🚀 Nova Siege — 3D Space Shooter
+### 🚀 Nova Siege , 3D Space Shooter
 
 A 3D space shooter developed using **Python and PyOpenGL**, featuring custom rendering, weapon physics, and local multiplayer.
 
@@ -126,35 +126,35 @@ A modern full-stack blogging platform featuring:
 
 ## 🏆 Achievements
 
-* 🥈 **Silver Medalist** — ISIF Bangladesh Round, 2025
-* 🥉 **Bronze Medalist** — Innovation World Cup Bangladesh Round, 2026
-* 🥉 **2nd Runner-Up** — IPE Carnivesta, 2025
-* 🚀 **Semi-Finalist** — Undergrad Startup Challenge, 2025
-* 🔐 **Introduction to Cybersecurity** — Cisco Networking Academy
-* 📊 **Introduction to Data Analytics** — Bohubrihi
-* 🐍 **Introduction to Python Programming** — Bohubrihi
-* 💻 **Pathway to Software Engineering** — Bohubrihi
+* 🥈 **Silver Medalist** , ISIF Bangladesh Round, 2025
+* 🥉 **Bronze Medalist** , Innovation World Cup Bangladesh Round, 2026
+* 🥉 **2nd Runner-Up** , IPE Carnivesta, 2025
+* 🚀 **Semi-Finalist** , Undergrad Startup Challenge, 2025
+* 🔐 **Introduction to Cybersecurity** , Cisco Networking Academy
+* 📊 **Introduction to Data Analytics** , Bohubrihi
+* 🐍 **Introduction to Python Programming** , Bohubrihi
+* 💻 **Pathway to Software Engineering** , Bohubrihi
 
 ---
 
 ## 💼 Experience & Leadership
 
-**Robotics Trainer — Octobrain**
+**Robotics Trainer , Octobrain**
 2026 – Present
 
 Conduct hands-on robotics and STEM learning sessions while teaching programming, robotics fundamentals, and problem-solving.
 
-**Assistant Director — BRAC University Computer Club**
+**Assistant Director , BRAC University Computer Club**
 2024 – Present
 
 Contributing to technical events, competitive activities, project coordination, and club operations.
 
-**Co-Lead, Technical Team — Team Bionergy**
+**Co-Lead, Technical Team , Team Bionergy**
 2025 – Present
 
 Working on machine development, circuit design, and system integration.
 
-**Chief Technical Lead — Team Aronnyok**
+**Chief Technical Lead , Team Aronnyok**
 2024 – Present
 
 Leading research and development activities and contributing to competition-oriented technical projects.
