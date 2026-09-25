@@ -180,7 +180,34 @@ Leading research and development activities and contributing to competition-orie
 
 📊 GitHub Statistics
 
-<table> <tr> <td align="center"> <a href="https://github.com/RawnakAhasan911"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RawnakAhasan911&show_icons=true&theme=tokyonight&hide_border=true" /> </a> </td> <td align="center"> <a href="https://github.com/RawnakAhasan911"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RawnakAhasan911&layout=compact&theme=tokyonight&hide_border=true" /> </a> </td> </tr> <tr> <td colspan="2" align="center"> <a href="https://github.com/RawnakAhasan911"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RawnakAhasan911&theme=tokyonight&hide_border=true" /> </a> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://raw.githubusercontent.com/RawnakAhasan911/RawnakAhasan911/gh-pages/github-contribution-grid-snake-dark.svg" /> </td> </tr> </table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RawnakAhasan911">
+        <img height="180em" src="./profile/stats.svg" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RawnakAhasan911">
+        <img height="180em" src="./profile/top-langs.svg" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/RawnakAhasan911">
+        <img src="https://streak-stats.demolab.com?user=RawnakAhasan911&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/RawnakAhasan911/RawnakAhasan911/gh-pages/github-contribution-grid-snake-dark.svg" />
+    </td>
+  </tr>
+</table>
 
 ## 🧠 Currently Exploring
 
