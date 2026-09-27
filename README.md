@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md. Rawnak Ahasan
 
-### CSE Student | AI & Robotics Enthusiast | Cybersecurity | Software Development
+### CSE Student | AI & Robotics | Computer Vision | Cybersecurity | Research
 
 I'm a Computer Science and Engineering student at **BRAC University**, passionate about building technology that solves real-world problems. My interests span **Artificial Intelligence, Robotics, Cybersecurity, Computer Vision, and Software Engineering**.
 
