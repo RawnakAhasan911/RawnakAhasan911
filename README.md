@@ -180,7 +180,7 @@ Leading research and development activities and contributing to competition-orie
 
 ---
 
-📊 GitHub Statistics
+## 📊 GitHub & LeetCode Statistics
 
 <table>
   <tr>
@@ -206,11 +206,20 @@ Leading research and development activities and contributing to competition-orie
 
   <tr>
     <td colspan="2" align="center">
+      <a href="https://leetcode.com/u/RawnakAhasan911/">
+        <img src="https://leetcard.jacoblin.cool/RawnakAhasan911?theme=dark&font=Ubuntu&ext=heatmap&border=0" alt="LeetCode Stats and Live Streak Heatmap" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
       <img src="https://raw.githubusercontent.com/RawnakAhasan911/RawnakAhasan911/gh-pages/github-contribution-grid-snake-dark.svg" />
     </td>
   </tr>
 </table>
 
+---
 ## 🧠 Currently Exploring
 
 ```text
