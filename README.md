@@ -182,7 +182,7 @@ Leading research and development activities and contributing to competition-orie
 
 ## 📊 GitHub & LeetCode Statistics
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/RawnakAhasan911">
@@ -211,13 +211,15 @@ Leading research and development activities and contributing to competition-orie
       </a>
     </td>
   </tr>
-
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/RawnakAhasan911/RawnakAhasan911/gh-pages/github-contribution-grid-snake-dark.svg" />
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RawnakAhasan911/RawnakAhasan911/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RawnakAhasan911/RawnakAhasan911/gh-pages/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/RawnakAhasan911/RawnakAhasan911/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</p>
 
 ---
 ## 🧠 Currently Exploring
